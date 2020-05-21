@@ -1,0 +1,17 @@
+figlet -f big Moiz Moiz | lolcat
+pkg update && upgrade
+figlet -f small Packages upgraded successfuly
+pkg install git
+pkg install python2
+figlet -f small Python2 installed | lolcat
+pkg install python
+figlet -f small Python3 installed | lolcat
+pip install requests
+pip install mechanize
+pip install telethon
+pkg install apt
+apt upgrade
+apt update
+pkg install nano
+pkg install php
+pkg install ruby
